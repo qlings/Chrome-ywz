@@ -1,0 +1,35 @@
+{
+  "name":"My Chrome Test",
+  "description":"This is a test, to experiment my mind.",
+  "version":"1.0",
+  "manifest_version":2,
+  
+  "background":{
+    "page":"background.html"
+  },
+  
+  "browser_action":{
+    "default_title":"ÑÕÎÄ×Ö",
+	"default_popup":"popup.html",
+	"default_icon":{
+	  "19":"/img/16.png",
+	  "38":"/img/32.png"
+	}
+  },
+  
+  "options_page":"options.html",
+	
+  "icons":{
+    "16":"/img/16.png",
+	"32":"/img/32.png",
+	"48":"/img/48.png",
+	"64":"/img/64.png",
+	"128":"/img/128.png"
+  },
+  
+  "permissions":[
+    "http://*/*","https://*/*","clipboardWrite","tabs"
+  ],
+}
+  
+  
