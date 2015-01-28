@@ -15,7 +15,7 @@ try{
 //xmlDoc= xmlDoc.loadXML("http://animetime.qiniudn.com/emotion.xml");
 //xmlDoc=loadXMLDoc("http://animetime.qiniudn.com/emotion.xml");
 //xmlDoc=loadXMLDoc("/source/KT.xml");
-var x= xmlDoc.childNodes;
+var x= xmlDoc.documentElement.childNodes;
 alert(xmlDoc);
 alert(x.childNodes);
   for (i=1;i<x.length;i++){
