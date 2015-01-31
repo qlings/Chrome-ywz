@@ -3,13 +3,14 @@ try{
         xmlhttp.open("GET","http://animetime.qiniudn.com/emotion.xml",false);
         xmlhttp.send(null);
         //alert(xmlhttp.readyState);
+		//alert("弹窗测试")
         if(xmlhttp.readyState == 4){
         xmlDoc = xmlhttp.responseXML.documentElement;
         }
         
             }catch(e){
             alert("谷歌浏览器不支持该解析方式!");
-            }
+            }                  //可以工作
 //xmlDoc= document.implementation.createDocument("","",null);
 //xmlDoc.async= "false";
 //xmlDoc= xmlDoc.loadXML("http://animetime.qiniudn.com/emotion.xml");
