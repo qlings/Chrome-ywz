@@ -18,7 +18,7 @@ try{
 //xmlDoc=loadXMLDoc("/source/KT.xml");
 var x= xmlDoc.documentElement.childNodes;
 alert(xmlDoc);
-alert(x.childNodes);
+alert(x.childNodes);         //chilaNodes对Chrome
   for (i=1;i<x.length;i++){
 	var y= x[i];
       for (n=0;n<y.length;n++){
