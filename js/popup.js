@@ -1,4 +1,4 @@
-var url="http://qlings.github.io/demo.php";
+var url="http://qlings.github.io//emotion.xml";
 xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET",url,false);
 xmlhttp.send();
