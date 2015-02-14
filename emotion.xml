@@ -1,0 +1,346 @@
+<emoji>
+
+    <infoos>A君的颜文字杂物箱</infoos>
+
+    <category name="开心">
+
+        <entry>
+            <note>手动点赞</note>
+            <string>(｀・ω・´)b</string>
+        </entry>
+
+        <entry>
+            <note>得意</note>
+            <string>(￣︶￣)</string>
+        </entry>
+        
+        <entry>
+            <note>干杯（哔哩哔哩版）</note>
+            <string>( ゜- ゜)つロ</string>
+        </entry>
+                
+        <entry>
+            <note>干杯~</note>
+            <string>(￣▽￣)つロ</string>
+        </entry>
+                        
+        <entry>
+            <note>残念desu</note>
+            <string>╮(╯▽╰)╭</string>
+        </entry>
+                                
+        <entry>
+            <note>睁眼笑</note>
+            <string>( ° ▽ °)</string>
+        </entry>
+                                        
+        <entry>
+            <note>好酥服</note>
+            <string>(￣ω￣)</string>
+        </entry>
+                                                
+        <entry>
+            <note>Yeah~</note>
+            <string>(≧ω≦)</string>
+        </entry>
+                                                        
+        <entry>
+            <note>么么哒</note>
+            <string>(&gt;з&lt;)</string>
+        </entry>
+        
+        <entry>
+            <note>手舞足蹈</note>
+            <string>(/≧▽≦/)</string>
+        </entry>
+        
+        <entry>
+            <note>ダンシング</note>
+            <string>└( ^ω^ )」</string>
+        </entry>
+        
+        <entry>
+            <note>动感光波~</note>
+            <string>⊂( ･∀･) 彡　=͟͟͞͞ ⌧ </string>
+        </entry>
+        
+        <entry>
+            <note>干吧爹</note>
+            <string>٩(๑òωó๑)۶</string>
+        </entry>
+        
+        <entry>
+            <note>赛高</note>
+            <string>⁽⁽٩(๑˃̶͈̀ ᗨ ˂̶͈́)۶⁾⁾</string>
+        </entry>
+        
+        <entry>
+            <note>Blablabla</note>
+            <string>(☝ ՞ਊ ՞)☝</string>
+        </entry>
+        
+        <entry>
+            <note>哦耶哦耶~</note>
+            <string>✌('ω'✌ )三✌('ω')✌三( ✌'ω')✌</string>
+        </entry>
+        
+        <entry>
+            <note>♪</note>
+            <string>◖ฺ|⌯˃̶₎₃₍˂̶ ॣ|◗·˳♪⁎˚♫</string>
+        </entry>
+        
+        <entry>
+            <note>受死吧！</note>
+            <string>( つ•̀ω•́)つ・・*:・:・゜:==≡≡Σ=͟͟͞͞(✡)`Д´）</string>
+        </entry>
+        
+        <entry>
+            <note>卖个萌</note>
+            <string>(๑◔‿◔๑)</string>
+        </entry>
+        
+        <entry>
+            <note>卧槽？！</note>
+            <string>( ✧Д✧)</string>
+        </entry>
+        
+        <entry>
+            <note>Kira~</note>
+            <string>(･ω&gt;)☆</string>
+        </entry>
+        
+        <entry>
+            <note>UCCU @银仙</note>
+            <string>m9(^ Д ^)</string>
+        </entry>
+        
+    </category>
+
+    <category name="惊吓/悲伤">
+
+        <entry>
+            <note>What the hell?</note>
+            <string>Σ( ° △ °|||)︴</string>
+        </entry>
+
+        <entry>
+            <note>Oh, no!</note>
+            <string>(&gt;﹏&lt;)</string>
+        </entry>
+        
+        <entry>
+            <note>五体投地</note>
+            <string>Orz</string>
+        </entry>
+                
+        <entry>
+            <note>超不爽！</note>
+            <string>≧︿≦</string>
+        </entry>
+                        
+        <entry>
+            <note>来打我啊</note>
+            <string>(＃°Д°)</string>
+        </entry>
+                                
+        <entry>
+            <note>纳尼？！</note>
+            <string>Σ(°Д° )</string>
+        </entry>
+                                        
+        <entry>
+            <note>略难受</note>
+            <string>(￣Д￣〃)</string>
+        </entry>
+                                                
+        <entry>
+            <note>命苦</note>
+            <string>〒▽〒</string>
+        </entry>
+                                                        
+        <entry>
+            <note>我生气了</note>
+            <string>╰（‵□′）╯</string>
+        </entry>
+        
+        <entry>
+            <note>比中指！</note>
+            <string>（︶︿︶）凸</string>
+        </entry>
+                
+        <entry>
+            <note>掀桌！</note>
+            <string>（╯－＿－）╯╧╧</string>
+        </entry>
+                        
+        <entry>
+            <note>掀桌2</note>
+            <string>（╯‵□′）╯︵┴─┴</string>
+        </entry>
+                                
+        <entry>
+            <note>掀桌3</note>
+            <string>┴┴︵╰（‵□′）╯︵┴┴</string>
+        </entry>
+        
+        <entry>
+            <note>啊咧！</note>
+            <string>(ÒωÓױ)</string>
+        </entry>
+        
+        <entry>
+            <note>天噜！</note>
+            <string>━━Σ(llﾟ艸ﾟll)━━━！</string>
+        </entry>
+        
+        <entry>
+            <note>泪眼婆娑</note>
+            <string>(இдஇ; )</string>
+        </entry>
+        
+        <entry>
+            <note>一百块都不给我！</note>
+            <string>щ(ﾟдﾟщ)ｺﾞﾗｰ!</string>
+        </entry>
+        
+        <entry>
+            <note>只要你过的比我好……</note>
+            <string>( ꈨຶ ˙̫̮ ꈨຶ )</string>
+        </entry>
+        
+        <entry>
+            <note>真·笑 cry</note>
+            <string>(˚ ˃̣̣̥ω˂̣̣̥ )</string>
+        </entry>
+        
+        <entry>
+            <note>呃……</note>
+            <string>(╯⊙ ⊱ ⊙╰ )</string>
+        </entry>
+        
+    </category>
+    
+    <category name="说句话">
+    
+        <entry>
+            <note>生日快乐</note>
+            <string>ε(*'-')з†.*･ﾟ☆Happyヾ(ﾟ∇ﾟ)ﾉBirthday☆ﾟ･*.†ε('-'*)з</string>
+        </entry>
+        
+        <entry>
+            <note>晚安</note>
+            <string>*॰ْ✧ً⋆｡˚ᎶᎾᎾⅅ (ව̐ ˒̫̮ ව̐) ℕᏐᎶℍᎢ⋆｡˚*ْ✧ं॰*</string>
+        </entry>
+        
+        <entry>
+            <note>碎觉觉</note>
+            <string>=͟͟͞͞ (¦3[▓▓]</string>
+        </entry>
+        
+    </category>
+    
+    <category name="喵喵">
+        
+        <entry>
+            <note>扇你喵</note>
+            <string>(=^･ｪ･^=))ﾉ彡</string>
+        </entry>
+        
+        <entry>
+            <note>招财喵</note>
+            <string>ฅ(⌯͒⚭̈́ ˑ̫ ⚭̈́⌯͒)ฅ</string>
+        </entry>
+        
+        <entry>
+            <note>逗你玩喵</note>
+            <string>❣ฅ(⌯͒▾ ˑ̫ ▾⌯͒)ฅ</string>
+        </entry>
+        
+        <entry>
+            <note>好想要喵</note>
+            <string>(ฅΦωΦ)ฅ</string>
+        </entry>
+        
+    </category>
+    
+    <category name="熊熊">
+        
+        <entry>
+            <note>好熊熊</note>
+            <string>ʕ•̫͡•ʔ</string>
+        </entry>
+        
+        <entry>
+            <note>闭嘴熊熊</note>
+            <string>ʕ•͓͡•ʔ</string>
+        </entry>
+        
+        <entry>
+            <note>眯眼熊熊</note>
+            <string>ʕ-̫͡-ʔ</string>
+        </entry>
+        
+        <entry>
+            <note>星星眼熊熊</note>
+            <string>ʕ*̫͡*ʔ</string>
+        </entry>
+        
+        <entry>
+            <note>很多熊熊</note>
+            <string>ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ</string>
+        </entry>
+        
+    </category>
+    
+    <category name="小剧场">
+        
+        <entry>
+            <note>拖延症</note>
+            <string>(๑•﹏•)啥时候干活？　 ლ(ಠ_ಠ ლ）现在！立刻！马上！</string>
+        </entry>
+    
+    </category>
+    
+    <category name="兵长特辑">
+
+        <entry>
+            <note>普（mian）通（tan）的兵长</note>
+            <string>눈_눈</string>
+        </entry>
+
+        <entry>
+            <note>开口笑的兵长</note>
+            <string>눈▽눈</string>
+        </entry>
+        
+        <entry>
+            <note>生气的兵长</note>
+            <string>눈皿눈</string>
+        </entry>
+                
+        <entry>
+            <note>卖萌的兵长</note>
+            <string>눈ω눈</string>
+        </entry>
+                        
+        <entry>
+            <note>说话的兵长</note>
+            <string>눈口눈</string>
+        </entry>
+                                
+        <entry>
+            <note>说话的兵长（生动版）</note>
+            <string>눈д눈</string>
+        </entry>
+                                        
+        <entry>
+            <note>难受的兵长</note>
+            <string>눈﹏눈</string>
+        </entry>
+                                                
+        <entry>
+            <note>猫嘴兵长</note>
+            <string>눈⊥눈</string>
+        </entry>
+    </category>
+</emoji>
