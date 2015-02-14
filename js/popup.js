@@ -1,4 +1,4 @@
-var url="http://animetime.qiniudn.com/emotion.xml";
+var url="http://7vznvw.com1.z0.glb.clouddn.com/emotion.txt";
 xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET",url,false);
 xmlhttp.send();
