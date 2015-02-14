@@ -1,4 +1,4 @@
-var url="http://7vznvw.com1.z0.glb.clouddn.com/emotion.txt";
+var url="http://qlings.github.io/demo.php";
 xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET",url,false);
 xmlhttp.send();
