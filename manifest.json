@@ -28,7 +28,7 @@
   },
   
   "permissions":[
-    "http://*/*","https://*/*","clipboardWrite","tabs"
+    "http://*/*","https://*/*","clipboardWrite","tabs","storage",
   ]
 }
   

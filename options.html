@@ -3,8 +3,8 @@
 
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<link href="/css/options.css" rel="stylesheet" type="text/css">
-	<script src="/js/options.js" type="text/javascript" charset="utf-8"></script>
+	<link href="css/options.css" rel="stylesheet" type="text/css">
+	<script src="js/options.js" type="text/javascript" charset="utf-8"></script>
   </head>
   
   <body>
@@ -19,13 +19,16 @@
 	3.<input type="checkbox" name="historydate">启用常用记录（开发中，未开启）<br/>
 	 5<input type="range" min="5" max="30" step="1">30<br/>
 	4.自定义源地址<br/>
-	  <input type="radio" name="source" value="1" checked>emotion.xml（默认）<br/>
-	  <input type="radio" name="source" value="2">JapaneseEmoticons.xml<br/>
-	  <input type="radio" name="source" value="3">japanese-emoticons.xml<br/>
-	  <input type="radio" name="source" value="4">kaomojiya.xml<br/>
-	  <input type="radio" name="source" value="5">yashi.xml<br/>
-	  <input type="radio" name="source" value="6">其他<br/>
+	  <input type="radio" name="source" value="http://7vznvw.com1.z0.glb.clouddn.com/emotion.xml" checked>emotion.xml（默认）<br/>
+	  <input type="radio" name="source" value="http://7vznvw.com1.z0.glb.clouddn.com/JapaneseEmoticons.xml">JapaneseEmoticons.xml<br/>
+	  <input type="radio" name="source" value="http://7vznvw.com1.z0.glb.clouddn.com/japanese-emoticons.xml">japanese-emoticons.xml<br/>
+	  <input type="radio" name="source" value="http://7vznvw.com1.z0.glb.clouddn.com/kaomojiya.xml">kaomojiya.xml<br/>
+	  <input type="radio" name="source" value="http://7vznvw.com1.z0.glb.clouddn.com/yashi.xml">yashi.xml<br/>
+	  <input type="radio" name="source" value="源已经没有了，愿意加入我们吗">其他<br/>
+	  <a id="dress" href="http://7vznvw.com1.z0.glb.clouddn.com/JapaneseEmoticons.xml">在网页中查看当前源</a></br>
 	</form>
+	
+	<input type="button" onclick="saveset()" value="保存"></br>
 	
 	<p>这个软件的其他介绍</p>
   </body>
