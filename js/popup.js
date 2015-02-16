@@ -1,4 +1,4 @@
-var url="xml/emotion.xml";
+var url="http://qling.xyz/xml/emotion.xml";
 xmlhttp=new XMLHttpRequest();
 xmlhttp.open("GET",url,false);
 xmlhttp.send();
