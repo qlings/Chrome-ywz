@@ -1,3 +1,4 @@
+//这个文件到处是问题，需要全部修改
 //var Storage = chrome.storage.local;
 var SourceUrl;
 function saveset(){
