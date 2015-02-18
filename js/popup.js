@@ -1,6 +1,7 @@
-var url="http://qling.xyz/xml/emotion.xml";
+var url=chrome.extension.getURL("xml/emotion.xml");
 xmlhttp=new XMLHttpRequest();
-xmlhttp.open("GET",url,false);
+//xmlhttp.onreadystatechange = handleStateChange;
+xmlhttp.open("GET",url,fl);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 var x=xmlDoc.getElementsByTagName("category")[0];
