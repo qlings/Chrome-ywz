@@ -1,7 +1,7 @@
-var url=chrome.extension.getURL("xml/emotion.xml");
+var url="http://7vznvw.com1.z0.glb.clouddn.com/emotion.xml";
 xmlhttp=new XMLHttpRequest();
 //xmlhttp.onreadystatechange = handleStateChange;
-xmlhttp.open("GET",url,fl);
+xmlhttp.open("GET",url,false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 var x=xmlDoc.getElementsByTagName("category")[0];
